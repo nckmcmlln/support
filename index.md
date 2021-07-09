@@ -7,4 +7,4 @@ Need some support? shoot me an email!
 ```markdown
 Nick.mcmullan@gmail.com
 ```
-Or if you just want to click a <a href="mailto:Nick.mcmullan@gmail.com">button</a>
+Or you can just click this <a href="mailto:Nick.mcmullan@gmail.com">button</a>
