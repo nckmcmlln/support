@@ -13,47 +13,9 @@ Or you can just click this <a href="mailto:Nick.mcmullan@gmail.com">button</a>
 
 I don't collect any data on anything you do. The app doesn't even connect to the internet
 
-<style>
-  [data-custom-class='body'], [data-custom-class='body'] * {
-          background: transparent !important;
-        }
-[data-custom-class='title'], [data-custom-class='title'] * {
-          font-family: Arial !important;
-font-size: 26px !important;
-color: #000000 !important;
-        }
-[data-custom-class='subtitle'], [data-custom-class='subtitle'] * {
-          font-family: Arial !important;
-color: #595959 !important;
-font-size: 14px !important;
-        }
-[data-custom-class='heading_1'], [data-custom-class='heading_1'] * {
-          font-family: Arial !important;
-font-size: 19px !important;
-color: #000000 !important;
-        }
-[data-custom-class='heading_2'], [data-custom-class='heading_2'] * {
-          font-family: Arial !important;
-font-size: 17px !important;
-color: #000000 !important;
-        }
-[data-custom-class='body_text'], [data-custom-class='body_text'] * {
-          color: #595959 !important;
-font-size: 14px !important;
-font-family: Arial !important;
-        }
-[data-custom-class='link'], [data-custom-class='link'] * {
-          color: #3030F1 !important;
-font-size: 14px !important;
-font-family: Arial !important;
-word-break: break-word !important;
-        }
-</style>
+### Terms and Conditions
 
-      <div data-custom-class="body">
-      <div align="center" style="text-align: left; line-height: 1;"><div align="center" class="MsoNormal" style="text-align: left; line-height: 150%;"><div align="center" class="MsoNormal" style="text-align:center;line-height:150%;"><a name="_2cipo4yr3w5d"></a><div align="center" class="MsoNormal" style="line-height: 22.5px;"><div align="center" class="MsoNormal" style="line-height: 150%;"><a name="_gm5sejt4p02f"></a><div align="center" class="MsoNormal" data-custom-class="title" style="text-align: left; line-height: 1.5;"><strong><span style="line-height: 22.5px; font-size: 26px;"><bdt class="block-component"></bdt><bdt class="question">TERMS OF SERVICE</bdt><bdt class="statement-end-if-in-editor"></bdt></span></strong></div><div align="center" class="MsoNormal" style="line-height: 22.5px; text-align: left;"><a name="_7m5b3xg56u7y"></a></div><div align="center" class="MsoNormal" data-custom-class="subtitle" style="text-align: left; line-height: 22.5px;"><br></div><div align="center" class="MsoNormal" data-custom-class="subtitle" style="text-align: left; line-height: 1.5;"><span style="color: rgb(89, 89, 89); font-size: 14.6667px; text-align: justify;"><strong>Last updated <bdt class="block-container question question-in-editor" data-id="e2088df5-25ea-aec9-83d4-6284f5a7e043" data-type="question">August 01, 2021</bdt></strong></span></div></div></div><div align="center" class="MsoNormal" style="line-height: 17.25px; text-align: left;"><br></div><div align="center" class="MsoNormal" style="line-height: 17.25px; text-align: left;"><br></div><div align="center" class="MsoNormal" style="line-height: 17.25px; text-align: left;"><span style="font-size: 11pt; line-height: 16.8667px;"><br></span></div></div><div class="MsoNormal" data-custom-class="heading_1" style="line-height: 115%;"><a name="_a7mwfgcrtsqn"></a><strong><span style="line-height: 115%; font-family: Arial; font-size: 19px;">AGREEMENT TO TERMS</span></strong></div></div><div align="center" class="MsoNormal" style="text-align: left; line-height: 1;"><br></div><div align="center" class="MsoNormal" style="text-align: left; line-height: 150%;"><div class="MsoNormal" data-custom-class="body_text" style="line-height: 1.5;"><span style="font-size:11.0pt;line-height:115%;
-Arial;mso-fareast-font-family:Calibri;color:#595959;mso-themecolor:text1;
-mso-themetint:166;">These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and <bdt class="block-container question question-in-editor" data-id="4ab94aa9-19d1-61e0-711e-42c7d186232b" data-type="question">Nicolas McMullan</bdt><bdt class="block-component"></bdt> ("<bdt class="block-component"></bdt><strong>Company</strong><bdt class="statement-end-if-in-editor"></bdt>", “<strong>we</strong>”, “<strong>us</strong>”, or “<strong>our</strong>”), concerning your access to and use of the <bdt class="block-container question question-in-editor" data-id="92c3b320-1d8b-c74c-db68-d12810736807" data-type="question"><a href="https://nckmcmlln.github.io/support/" target="_blank" data-custom-class="link">https://nckmcmlln.github.io/support/</a></bdt> website as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site”).<span style="font-size:11.0pt;line-height:115%;
+These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and <bdt class="block-container question question-in-editor" data-id="4ab94aa9-19d1-61e0-711e-42c7d186232b" data-type="question">Nicolas McMullan</bdt><bdt class="block-component"></bdt> ("<bdt class="block-component"></bdt><strong>Company</strong><bdt class="statement-end-if-in-editor"></bdt>", “<strong>we</strong>”, “<strong>us</strong>”, or “<strong>our</strong>”), concerning your access to and use of the <bdt class="block-container question question-in-editor" data-id="92c3b320-1d8b-c74c-db68-d12810736807" data-type="question"><a href="https://nckmcmlln.github.io/support/" target="_blank" data-custom-class="link">https://nckmcmlln.github.io/support/</a></bdt> website as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site”).<span style="font-size:11.0pt;line-height:115%;
 Arial;mso-fareast-font-family:Calibri;color:#595959;mso-themecolor:text1;
 mso-themetint:166;"><span style="font-size:11.0pt;line-height:115%;
 Arial;mso-fareast-font-family:Calibri;color:#595959;mso-themecolor:text1;
